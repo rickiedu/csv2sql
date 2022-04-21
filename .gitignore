@@ -42,3 +42,5 @@ tags
 # exclude Vim temp files
 *.swp
 *.swo
+.DS_Store
+dist/*
